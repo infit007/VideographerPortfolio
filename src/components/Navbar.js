@@ -44,7 +44,7 @@ export default function Navbar() {
           <div className="absolute inset-y-0 right-0 flex items-center pr-2 sm:static sm:inset-auto sm:ml-6 sm:pr-0">
             <div className="flex space-x-4">
               <a
-                href="https://www.instagram.com/jayesh_suntha/"
+                href="https://www.instagram.com/infibat/"
                 target="_blank"
                 rel="noopener noreferrer"
               >
